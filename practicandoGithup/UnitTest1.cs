@@ -8,13 +8,16 @@ namespace practicandoGithup
         public void Setup()
         {
 
-
+            ///hola mundo esto es una practica gogogoogogo
         }
 
         [Test]
         public void Test1()
         {
             Assert.Pass();
+
+
+            //es otro editado por eso te stien q 
         }
     }
 }
